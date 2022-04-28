@@ -28,6 +28,38 @@ Opportunity/Demand----->Service Value Chain----->Value
                        -Governance
                        -Practices
                        -Continual improvement
+                  
+Guiding Principles
+-Focus on value
+-Start where you are
+-Progress iteratively with feedback
+-Collaborate and promote visibility
+-Think and work holistically
+-Keep it simple and practical
+
+Service Value Chain(SVC)
+-Engage
+-Plan
+-Product & Services
+-Improve
+-Obtain/Build
+-Design & Transition
+-Deliver & Support
+
+Continual Improvement
+-What is the vision?
+-Where are we now?
+-Where do we want to be?
+-How do we get there?
+-Take Action
+-Did we get there?
+-How do we keep the momentum going?
+
+Practices(34)
+-General Management(14)
+-Service Management(17)
+-Techinical Management(3)
+
 
 
 ```
