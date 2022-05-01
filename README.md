@@ -42,6 +42,13 @@ practices and processes that can be adopted in order to provide IT service manag
 
 Five Stages of the ITIL Service Lifecycle
 -Service Strategy 
+-Service Design
+-Service Transition
+-Service Operation
+-Continual Servcie improvement(CSI)
+
+![ITIL_Service_LifeCycle](https://user-images.githubusercontent.com/99203797/166148720-3477a7a3-5302-43d3-aa62-9a38414b9ada.jpg)
+
 
 
 ```
